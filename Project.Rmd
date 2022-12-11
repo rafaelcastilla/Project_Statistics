@@ -202,5 +202,5 @@ Slide logistic regression. Jan Graffelman
 medlineplus. https://medlineplus.gov/spanish/lupus.html 
 
 ## Apendix
-you can find rmarkdawn on this github:
+you can find Rmarkdown on this github:
 https://github.com/rafaelcastilla/Project_Statistics
